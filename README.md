@@ -1,10 +1,10 @@
-# React CRUD Application
+# React Task Manager
 
 A responsive multi-page React.js application with full CRUD (Create, Read, Update, Delete) functionality for managing tasks. Built with Vite, React Router DOM, Tailwind CSS, and localStorage for data persistence.
 
 ## Features
 
-- ✅ **Full CRUD Operations**
+- ✅ **Full Task Manager**
   - Create new tasks
   - Read/view all tasks
   - Update existing tasks
